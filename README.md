@@ -1,5 +1,5 @@
 # My Portfolio
-<image src="my_profile_pic.png"
+<image src="my_profile_pic.png">
 ## Data Analyst | Making sense and insights out of messy data
 [My LinkedIn](https://www.linkedin.com/in/nkeiruka-obiwulu-3386346a) | [View My Resume](drive.google) | [Email Me](mailto:nkeyobiwulu@gmail.com)
 
