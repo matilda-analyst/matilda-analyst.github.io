@@ -1,6 +1,6 @@
 # My Portfolio
 
-<img width="50" height="50" alt="my_profile_pic " src="https://github.com/user-attachments/assets/c0e04958-466f-4160-bc3d-02c40b8eeaa9" />
+
 
 ## Data Analyst | Making sense and insights out of messy data
 [My LinkedIn](https://www.linkedin.com/in/nkeiruka-obiwulu-3386346a) | [View My Resume](drive.google) | [Email Me](mailto:nkeyobiwulu@gmail.com)
