@@ -5,7 +5,7 @@
 ## Healthcare/Public Health Data Analyst | Making sense and insights out of messy data
 [My LinkedIn](https://www.linkedin.com/in/nkeiruka-obiwulu-3386346a) | [View My Resume](drive.google) | [Email Me](mailto:nkeyobiwulu@gmail.com)
 
-Hi, I'm Nkey Chibuzor
+# Hi, I'm Matilda 'Nkey' Chibuzor
 I specialize in analyzing healthcare and public health datasets to uncover insights that support better health outcomes and evidence-based research.
 My work focuses on disease trend analysis, public health risk factors, and natural drug research using modern data analytics tools.
 
@@ -25,9 +25,8 @@ My work focuses on disease trend analysis, public health risk factors, and natur
 - Public Health Data Systems
 
 
+## 📊 Featured Projects
 
-
-## Featured Projects
 ### Global Disease Trends Dashboard
 ### Public Health Risk Factor Analysis
 ### Natural Drug Research Data Analysis
@@ -54,7 +53,7 @@ Healthcare data analysis
 
 Data visualization
 
-Project 1: Global Disease Trends Dashboard
+## Project 1: Global Disease Trends Dashboard
 Objective:
 Analyze global disease trends and visualize patterns across regions.
 
@@ -81,7 +80,7 @@ Demographic patterns
 Portfolio Title:
 Global Health Disease Trends Analysis
 
-Project 2: Public Health Risk Factor Analysis
+## Project 2: Public Health Risk Factor Analysis
 Objective:
 Identify factors influencing disease outcomes.
 
@@ -104,7 +103,7 @@ Relationship between socioeconomic factors and health outcomes
 Portfolio Title:
 Public Health Risk Factor Analysis Using R
 
-Project 3: Hospital Performance Analytics
+## Project 3: Hospital Performance Analytics
 Objective:
 Analyze hospital performance metrics.
 
@@ -129,7 +128,7 @@ Resource allocation trends
 Portfolio Title:
 Hospital Performance and Patient Outcome Dashboard
 
-Project 4: Natural Drug Research Data Analysis
+## Project 4: Natural Drug Research Data Analysis
 Objective:
 Analyze plant-based drug compounds and their health effects.
 
