@@ -1,6 +1,7 @@
 # My Portfolio
 
 <img width="200" height="200" alt="my_profile_pix" src="https://github.com/user-attachments/assets/00831abd-e0aa-4121-9100-8a1f58dd714f" />
+
 ## Healthcare/Public Health Data Analyst | Making sense and insights out of messy data
 [My LinkedIn](https://www.linkedin.com/in/nkeiruka-obiwulu-3386346a) | [View My Resume](drive.google) | [Email Me](mailto:nkeyobiwulu@gmail.com)
 
