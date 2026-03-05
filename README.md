@@ -169,14 +169,4 @@ Currently open to Data Analyst roles. Let's connect and collaborate!
 
 
 
-
-
-
-
-
-
-
-
-
-
 **The Impact:** Girls are dropping out of school, reproductive health is endengered and poverty rate keeps skyrocketing
