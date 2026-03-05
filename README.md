@@ -164,6 +164,11 @@ Portfolio Title:
 COVID-19 Global Public Health Data Analysis
 
 
+## 📬 Let's Connect
+Currently open to Data Analyst roles. Let's connect and collaborate! 
+
+[Send me an email](mailto:nkeyobiwulu@gmail.com) to get in touch.
+
 
 
 
