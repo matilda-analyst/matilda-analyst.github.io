@@ -3,7 +3,7 @@
 <img width="200" height="200" alt="my_profile_pix" src="https://github.com/user-attachments/assets/00831abd-e0aa-4121-9100-8a1f58dd714f" />
 
 ## Healthcare/Public Health Data Analyst | Making sense and insights out of messy data
-[My LinkedIn](https://www.linkedin.com/in/nkeiruka-obiwulu-3386346a) | [View My Resume](drive.google) | [Email Me](mailto:nkeyobiwulu@gmail.com)
+[My LinkedIn](https://https://www.linkedin.com/in/nkeiruka-obiwulu-chibuzor-3386346a/) | [View My Resume](drive.google) | [Email Me](mailto:nkeyobiwulu@gmail.com)
 
 Hi, I'm Matilda 'Nkey' Chibuzor. I'm a data analyst specialized in analyzing healthcare and public health datasets to uncover insights that support better health outcomes and evidence-based research.
 My work focuses on disease trend analysis, public health risk factors, and natural drug research using modern data analytics tools.
